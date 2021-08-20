@@ -7,7 +7,6 @@
 👦 不想仅仅成为SQLBoy  
 ✏  努力刷题ing
 ### 技术栈
-
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-192133?style=flat-square&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=white)
@@ -22,6 +21,24 @@
 ![Hbase](https://img.shields.io/badge/-Hbase-192133?style=flat-square&logo=hbase&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-ES-192133?style=flat-square&logo=elasticsearch&logoColor=white)
+
+
+
+## 详细简历
+### 求助意向
+- 地区: 深圳
+- 方向: 实时数仓分析...
+- 行业: 互联网, 金融,保险, 游戏, 新零售....
+### 技术简介
+1. 待补充...
+2. 
+### 项目经验
+1. 待补充...
+2. 
+### 自我评价
+1. 待补充...
+2. 
+
 
 
 

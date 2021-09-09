@@ -1,6 +1,6 @@
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jface001&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue-dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jface001&hide_border&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue)
 
 ## 个人简介
 - ⌨ 大数据工程师一名

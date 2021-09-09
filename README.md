@@ -18,12 +18,12 @@
 ![Presto](https://img.shields.io/badge/-Presto-192133?style=flat-square&logo=presto&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-192133?style=flat-square&logo=apache-spark&logoColor=white)
 ![Flink](https://img.shields.io/badge/-Flink-192133?style=flat-square&logo=apache-flink&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=white)
 ![Hbase](https://img.shields.io/badge/-Hbase-192133?style=flat-square&logo=apache-hbase&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=white)
-![Flume](https://img.shields.io/badge/-Flume-192133?style=flat-square&logo=apache-flume&logoColor=white)
+![Flume](https://img.shields.io/badge/-Sqoop-192133?style=flat-square&logo=apache-sqoop&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/-ES-192133?style=flat-square&logo=elasticsearch&logoColor=white)
 
 

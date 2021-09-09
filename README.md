@@ -2,12 +2,12 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jface001&theme=vue-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue-dark)
 
-### 个人简介
+## 个人简介
 - ⌨ 大数据工程师一名
 - 👦 不想仅仅成为SQLBoy  
 - ✏  努力刷题ing
 
-### 技术栈
+## 技术栈
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
 ![Scala](https://img.shields.io/badge/-Scala-192133?style=flat-square&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=white)

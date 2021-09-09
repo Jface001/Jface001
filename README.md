@@ -50,7 +50,7 @@
 ### 项目经验
 - 新零售行业 Hive + Presto 离线数仓计算
 - 保险行业 Spark 离线数仓计算
-- FLink + Kafka 实时数仓计算
+- FLink + Kafka 实时数仓计算项目
 
 
 

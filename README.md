@@ -5,7 +5,7 @@
 ## 个人简介
 - ⌨ 大数据工程师
 - 👦 不想仅仅成为 SQLBoy  
-- ✏  保持学习，每周都能 commit
+- ✏  保持学习，希望每周都 commit
 
 ## 技术栈
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)

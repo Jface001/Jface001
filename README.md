@@ -3,9 +3,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue)
 
 ## 个人简介
-- ⌨ 大数据工程师一名
-- 👦 不想仅仅成为SQLBoy  
-- ✏  努力刷题ing
+- ⌨ 大数据工程师
+- 👦 不想仅仅成为 SQLBoy  
+- ✏  保持学习，每周都能 commit
 
 ## 技术栈
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=white)
@@ -30,7 +30,7 @@
 ## 详细简历
 ### 求助意向
 - 地区: 深圳
-- 方向: 实时数仓分析...
+- 方向: spark 离线数仓分析，FLink 实时数仓分析...
 - 行业: 互联网, 金融,保险, 游戏, 新零售....
 ### 个人技能
 熟悉 
@@ -40,10 +40,10 @@
 - 熟悉HDFS读写流程, 熟悉Yarn和MapReduce工作流程
 
 掌握
-- 掌握Hive数据仓库数据查询, 掌握HiveSQL查询, 对Hive性能优化有一定经验
-- 掌握Presto分布式交互查询引擎, 掌握Presto SQL 查询处理数据
-- 掌握Sqoop进行MySQL和HDFS数据的导入导出, 熟悉Oozie工作流程任务调度
-- 掌握Linux常用命令, 熟悉awk, shell脚本命令编写  
+- 掌握 Hive 数据仓库数据查询, 掌握 HiveSQL 查询, 对 Hive 性能优化有一定经验
+- 掌握 Presto 分布式交互查询引擎, 掌握 Presto SQL 查询处理数据
+- 掌握 Sqoop 进行 MySQL 和 HDFS 数据的导入导出, 熟悉 Oozie 工作流程任务调度
+- 掌握 Linux 常用命令, 熟悉 awk, shell 脚本命令编写  
 
 了解  
 

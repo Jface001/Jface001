@@ -33,14 +33,14 @@
 ## 详细简历
 ### 求助意向
 - 地区: 深圳
-- 方向: spark 离线数仓分析，FLink 实时数仓分析...
+- 方向: Spark 离线数仓分析，Flink 实时数仓分析...
 - 行业: 互联网, 金融,保险, 游戏, 新零售....
 ### 个人技能
 熟悉 
-- 熟悉Java语言, 熟悉Java部分特性, 如封装,继承,多态, 面向对象等
-- 熟悉SQL语法, 熟悉MySQL数据库, 对SQL性能优化有一定了解 
-- 熟悉Hadoop生态圈, 熟悉Hadoop分布式文件系统及对应HDFS大数据文件存储系统
-- 熟悉HDFS读写流程, 熟悉Yarn和MapReduce工作流程
+- 熟悉 Java 语言, 熟悉 Java 部分特性, 如封装,继承,多态, 面向对象等
+- 熟悉 SQL 语法, 熟悉 MySQL 数据库, 对 SQL 性能优化有一定了解 
+- 熟悉 Hadoop 生态圈, 熟悉 Hadoop 分布式文件系统和 HDFS 大数据文件存储系统
+- 熟悉 HDFS 读写流程, 熟悉 Yarn 和 MapReduce 工作流程
 
 掌握
 - 掌握 Hive 数据仓库数据查询, 掌握 HiveSQL 查询, 对 Hive 性能优化有一定经验
@@ -53,7 +53,7 @@
 ### 项目经验
 - 新零售行业 Hive + Presto 离线数仓计算
 - 保险行业 Spark 离线数仓计算
-- FLink + Kafka 实时数仓计算项目
+- Flink + Kafka 实时数仓计算项目
 
 
 

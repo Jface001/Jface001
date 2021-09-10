@@ -19,9 +19,9 @@
 ![Presto](https://img.shields.io/badge/-Presto-192133?style=flat-square&logo=presto&logoColor=#5890FF)
 ![Spark](https://img.shields.io/badge/-Spark-192133?style=flat-square&logo=apache-spark&logoColor=#E25A1C)
 ![Flink](https://img.shields.io/badge/-Flink-192133?style=flat-square&logo=apache-flink&logoColor=#E6526F)
+![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=#231F20)
 - 数据库  
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=#4479A1)
-![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=#231F20)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=#DC382D)
 ![Hbase](https://img.shields.io/badge/-Hbase-192133?style=flat-square&logo=apache-hbase&logoColor=white)
 - 其它工具  

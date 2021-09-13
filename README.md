@@ -1,12 +1,16 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jface001&hide_border&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue)  
+
 
 ## 个人简介
 - ⌨ 大数据工程师
 - 👦 不想仅仅成为 SQLBoy  
 - 🐿️ 专注于Spark 和 Flink 技术栈
 - ✏  保持学习，希望每周都 commit
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
+
 
 ## 技术栈
 - 基础语言  

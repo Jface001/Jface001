@@ -69,13 +69,13 @@
 **熟悉**  
 - Linux 系统使用和优化，Linux 常用命令，Awk、Shell 脚本命令编写  
 - Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验  
-- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算  
+- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算
+- Hbase 存储原理，存储架构    
 - Presto 分布式交互查询引擎，使用 Presto SQL 查询计算数据  
 - Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取  
 - DolphinScheduler 和 Oozie 工作任务调度  
 
 **了解**  
-- Hbase 存储原理，存储架构  
 - Redis 内存数据库的基本原理，实现数据毫秒查询  
 - ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用  
 - Flume数据抽取工具  
@@ -88,7 +88,7 @@
 
 ### 项目经验
 - 新零售行业 Hive + Presto 离线数仓计算
-- 保险行业 Spark 离线数仓计算
+- Spark 离线数仓计算
 - Flink + Kafka 实时数仓计算项目
 
 

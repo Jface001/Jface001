@@ -62,23 +62,25 @@
 - SQL 语法和 MySQL 数据库，HiveSQL、SparkSQL，对 SQL 性能优化有一定认知  
 - Spark 生态圈，SparkCore、SparkSQL、StructuredSteaming 算子，SparkSQL 做离线批处理计算  
 - Flink 生态圈，使用 DataStream、FlinkSQL 做实时流计算  
-- Flink 全流程 Source、Transformation、Sink 数据转换，结合Kafka、MySQL 等 Connector 的运用  
+- Flink 全流程 Source、Transformation、Sink 数据转换，结合Kafka、MySQL 等 Connector 的运用
+- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算      
 - Hadoop 生态圈，HDFS 大数据文件存储系统，HDFS 读写流程及原理  
 - Yarn 和 MapReduce 工作流程及原理  
 
 **熟悉**  
 - Linux 系统使用和优化，Linux 常用命令，Awk、Shell 脚本命令编写  
-- Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验  
-- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算
-- Hbase 存储原理，存储架构    
-- Presto 分布式交互查询引擎，使用 Presto SQL 查询计算数据  
-- Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取  
-- DolphinScheduler 和 Oozie 工作任务调度  
+- Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验    
+- Hbase 存储原理，存储架构      
+- Presto 分布式交互查询引擎，使用 Presto SQL 查询计算数据    
+- Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取    
+- DolphinScheduler 和 Oozie 工作任务调度    
 
 **了解**  
-- Redis 内存数据库的基本原理，实现数据毫秒查询  
-- ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用  
-- Flume数据抽取工具  
+- ClickHouse 即席查询，数据 ms 级别的实时查询    
+- Redis 内存数据库的基本原理，实现数据毫秒查询    
+- ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用      
+- SMM 框架，spring IOC 和 AOP 原理  
+- Flume数据抽取工具        
 
 **其它**  
 - GitHub https://github.com/Jface001  

@@ -20,9 +20,7 @@
 - 自制力较强，自我驱动型人格，充满热情与活力
 - 具备英文阅读能力，查询和学习英文文档资料
 - 具备良好的编码习惯，善于总结，热爱写技术博客
-- 平时喜欢阅读各类书籍，兴趣广泛，阅读过以下技术相关书籍  
-	○ 《高性能MySQL》  
-	○ 《Hadoop权威指南》  
+- 平时喜欢阅读各类书籍，兴趣广泛  
 - GitHub https://github.com/Jface001
 - 个人博客 https://jface001.github.io/
 
@@ -52,37 +50,33 @@
 ## 详细简历
 ### 求职意向
 - 地区: 深圳  
-- 方向: Spark 离线数仓分析，Flink 实时数仓分析...  
-- 行业: 互联网, 金融,保险, 游戏, 新零售....  
+- 方向: Spark 离线数仓分析，Flink 实时数仓分析  
+- 行业: 互联网。金融、保险、游戏、新零售等
 ### 个人技能
-**掌握**  
-- Java 基础知识，如封装、继承、多态、面向对象、JDBC、多线程等特性  
-- Java 开发 FLink 程序，实现 DataSet 离线批计算和 DataStream 实时流计算  
+**掌握** 
+- JavaSE基础知识，如封装、继承、多态、面向对象、JDBC、多线程等特性  
 - Scala 语言函数式编程，使用 Scala 开发 SparkCore 实现离线批计算  
-- SQL 语法和 MySQL 数据库，HiveSQL、SparkSQL，对 SQL 性能优化有一定认知  
-- Spark 生态圈，SparkCore、SparkSQL、StructuredSteaming 算子，SparkSQL 做离线批处理计算  
 - Flink 生态圈，使用 DataStream、FlinkSQL 做实时流计算  
-- Flink 全流程 Source、Transformation、Sink 数据转换，结合Kafka、MySQL 等 Connector 的运用
-- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算      
+- Spark 生态圈，SparkCore、SparkSQL、StructuredSteaming ，SparkSQL 做离线批处理  
 - Hadoop 生态圈，HDFS 大数据文件存储系统，HDFS 读写流程及原理  
 - Yarn 和 MapReduce 工作流程及原理  
 
-**熟悉**  
+**熟悉**
 - Linux 系统使用和优化，Linux 常用命令，Awk、Shell 脚本命令编写  
-- Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验    
-- Hbase 存储原理，存储架构      
-- Presto 分布式交互查询引擎，使用 Presto SQL 查询计算数据    
+- Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验  
+- Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算  
+- Presto、分布式交互查询引擎，使用 Presto SQL 查询计算数据  
+- Hbase、Redis 等NOSQL数据库，大数据毫秒级存储查询  
 - Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取    
-- DolphinScheduler 和 Oozie 工作任务调度    
+- DolphinScheduler 和 Oozie 工作任务调度  
 
-**了解**  
-- ClickHouse 即席查询，数据 ms 级别的实时查询    
-- Redis 内存数据库的基本原理，实现数据毫秒查询    
-- ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用      
-- SMM 框架，spring IOC 和 AOP 原理  
-- Flume数据抽取工具        
+**了解**
+- ClickHouse 列式数据库管理系统，实时即席查询  
+- ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用  
+- Flume、DataX 数据抽取工具  
+- SSM 框架，springBoo 框架开发数据接口  
 
-**其它**  
+**其它**
 - GitHub https://github.com/Jface001  
 - 个人博客 https://jface001.github.io/  
 

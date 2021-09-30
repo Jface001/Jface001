@@ -12,9 +12,9 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
 
 ## 自我评价
-- 语言水平：英语（CET-4）
 - 项目管理：PMP项目管理专业人员资格认证（3A2T）
 - 人力管理：企业人力资源管理师（三级）
+- 语言水平：英语（CET-4）
 - 其它认证：印象笔记印象大使
 - 为人热情开朗，积极向上，对世界充满好奇心和探索欲，热爱学习
 - 自制力较强，自我驱动型人格，充满热情与活力

@@ -6,7 +6,7 @@
 ## 个人简介
 - ⌨ 大数据工程师  
 - 👦 不想仅仅成为 SQLBoy     
-- 🐿️ 专注于Spark 和 Flink 技术栈  
+- 🐿️ 专注 Spark 和 Flink 技术栈  
 - ✏  保持学习，希望每周都 commit 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
@@ -51,10 +51,10 @@
 ### 求职意向
 - 地区: 深圳  
 - 方向: Spark 离线数仓分析，Flink 实时数仓分析  
-- 行业: 互联网。金融、保险、游戏、新零售等
+- 行业: 互联网、金融、保险、游戏、新零售等
 ### 个人技能
 **掌握** 
-- JavaSE基础知识，如封装、继承、多态、面向对象、JDBC、多线程等特性  
+- JavaSE 基础知识，如封装、继承、多态、面向对象、JDBC、多线程等特性  
 - Scala 语言函数式编程，使用 Scala 开发 SparkCore 实现离线批计算  
 - Flink 生态圈，使用 DataStream、FlinkSQL 做实时流计算  
 - Spark 生态圈，SparkCore、SparkSQL、StructuredSteaming ，SparkSQL 做离线批处理  

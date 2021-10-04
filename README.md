@@ -12,7 +12,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
 
 ## 自我评价
-- 项目管理：PMP项目管理专业人员资格认证（3A2T）
+- 项目管理：PMP项目管理专业人员资格认证
 - 人力管理：企业人力资源管理师（三级）
 - 语言水平：英语（CET-4）
 - 其它认证：印象笔记印象大使

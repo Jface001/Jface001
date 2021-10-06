@@ -74,7 +74,7 @@
 - ClickHouse 列式数据库管理系统，实时即席查询  
 - ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用  
 - Flume、DataX 数据抽取工具  
-- SSM 框架，springBoo 框架开发数据接口  
+- SSM 框架，springBoot 框架开发数据接口  
 
 **其它**
 - GitHub https://github.com/Jface001  

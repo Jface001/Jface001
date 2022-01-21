@@ -1,9 +1,9 @@
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jface001&hide_border&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&layout=compact&theme=vue)  
+## 今年情况✨
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=jface001&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jface001&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
 
-## 个人简介
+## 个人简介💬
 - ⌨ 大数据工程师  
 - 👦 不想仅仅成为 SQLBoy     
 - 🐿️ 专注 Spark 和 Flink 技术栈  
@@ -11,7 +11,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
 
-## 自我评价
+## 自我评价🤔
 - 项目管理：PMP项目管理专业人员资格认证
 - 人力管理：企业人力资源管理师（三级）
 - 语言水平：英语（CET-4）
@@ -25,7 +25,7 @@
 - 个人博客 https://jface001.github.io/
 
 
-## 技术栈
+## 技术栈🔧
 - 基础语言  
 ![Java](https://img.shields.io/badge/-Java-192133?style=flat-square&logo=java&logoColor=#007396)
 ![Scala](https://img.shields.io/badge/-Scala-192133?style=flat-square&logo=scala&logoColor=#DC322F)
@@ -47,7 +47,7 @@
 ![Sqoop](https://img.shields.io/badge/-Sqoop-192133?style=flat-square&logo=apache-sqoop&logoColor=white)
 
 
-## 详细简历
+## 详细简历👨‍💻
 ### 求职意向
 - 地区: 深圳  
 - 方向: Spark 离线数仓分析，Flink 实时数仓分析  

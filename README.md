@@ -46,7 +46,7 @@
 ![Elasticsearch](https://img.shields.io/badge/-ES-192133?style=flat-square&logo=elasticsearch&logoColor=#005571)
 ![Sqoop](https://img.shields.io/badge/-Sqoop-192133?style=flat-square&logo=apache-sqoop&logoColor=white)
 
-
+<!--
 ## 详细简历👨‍💻
 ### 求职意向
 - 地区: 深圳  
@@ -87,5 +87,4 @@
 - Spark 离线数仓计算
 - Flink + Kafka 实时数仓计算项目
 
-
-
+-->

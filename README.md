@@ -30,6 +30,7 @@
 ![Scala](https://img.shields.io/badge/-Scala-192133?style=flat-square&logo=scala&logoColor=#DC322F)
 ![Linux](https://img.shields.io/badge/-Linux-192133?style=flat-square&logo=linux&logoColor=#FCC624)
 ![Shell](https://img.shields.io/badge/-Shell-192133?style=flat-square&logo=shell&logoColor=#FFD500)
+![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=#3776AB)
 - 大数据技术栈  
 ![Hadoop](https://img.shields.io/badge/-Hadoop-192133?style=flat-square&logo=apache-hadoop&logoColor=white)
 ![Hive](https://img.shields.io/badge/-Hive-192133?style=flat-square&logo=apache-hive&logoColor=#E31337)
@@ -37,13 +38,16 @@
 ![Spark](https://img.shields.io/badge/-Spark-192133?style=flat-square&logo=apache-spark&logoColor=#E25A1C)
 ![Flink](https://img.shields.io/badge/-Flink-192133?style=flat-square&logo=apache-flink&logoColor=#E6526F)
 ![Kafka](https://img.shields.io/badge/-Kafka-192133?style=flat-square&logo=apache-kafka&logoColor=#231F20)
+![Kylin](https://img.shields.io/badge/-Kylin-192133?style=flat-square&logo=apache-kylin&logoColor=#F09D13)
 - 数据库  
 ![MySQL](https://img.shields.io/badge/-MySQL-192133?style=flat-square&logo=mysql&logoColor=#4479A1)
 ![Redis](https://img.shields.io/badge/-Redis-192133?style=flat-square&logo=redis&logoColor=#DC382D)
 ![Hbase](https://img.shields.io/badge/-Hbase-192133?style=flat-square&logo=apache-hbase&logoColor=white)
+
 - 其它工具  
 ![Elasticsearch](https://img.shields.io/badge/-ES-192133?style=flat-square&logo=elasticsearch&logoColor=#005571)
 ![Sqoop](https://img.shields.io/badge/-Sqoop-192133?style=flat-square&logo=apache-sqoop&logoColor=white)
+![DataX](https://img.shields.io/badge/-DataX-192133?style=flat-square&logo=datax&logoColor=white)
 
 <!--
 ## 详细简历👨‍💻
@@ -65,15 +69,14 @@
 - Hive 数据仓库数据查询，HiveSQL 查询，对 Hive 性能优化有一定经验  
 - Kafka 消息中间件使用，使用 Spark、Flink 从 Kafka 消费数据做批处理或实时计算  
 - Presto、分布式交互查询引擎，使用 Presto SQL 查询计算数据  
-- Hbase、Redis 等NOSQL数据库，大数据毫秒级存储查询  
+- Hbase、Redis 等 NOSQL数据库，大数据毫秒级存储查询  
 - Sqoop 进行 MySQL 和 HDFS 数据的导入导出，全量增量数据抽取    
 - DolphinScheduler 和 Oozie 工作任务调度  
 
 **了解**
 - ClickHouse 列式数据库管理系统，实时即席查询  
-- ELK 的 ElasticSearch、Logstash、Kibana 技术栈，整合大数据栈使用  
-- Flume、DataX 数据抽取工具  
-- SSM 框架，springBoot 框架开发数据接口  
+- Kylin 构建即席查询
+- DataX 数据抽取同步  
 
 **其它**
 - GitHub https://github.com/Jface001  

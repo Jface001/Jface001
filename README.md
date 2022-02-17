@@ -9,7 +9,7 @@
 - 🐿️ 专注 Spark 和 Flink 技术栈  
 - ✏  保持学习，希望每周都 commit 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jface001&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 自我评价🤔
 - 项目管理：PMP项目管理专业人员资格认证

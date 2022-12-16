@@ -21,7 +21,7 @@
 - 具备良好的编码习惯，善于总结，偶尔写写技术博客
 - 平时喜欢阅读各类书籍，兴趣广泛  
 - GitHub https://github.com/Jface001
-- 个人博客 https://jface001.github.io/
+- 个人博客 https://jingyuu.top/
 
 
 ## 技术栈🔧
@@ -80,7 +80,7 @@
 
 **其它**
 - GitHub https://github.com/Jface001  
-- 个人博客 https://jface001.github.io/  
+- 个人博客 https://jingyuu.top/
 
 
 

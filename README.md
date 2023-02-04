@@ -4,7 +4,7 @@
 
 
 ## 个人简介💬
-- ⌨ 大数据工程师  
+- ⌨ Data Engineer 
 - 👦 做一个优秀的 SQLBoy     
 - 🐿️ 专注 Spark 和 Flink 技术栈  
 - ✏  保持学习，希望每周都 commit 

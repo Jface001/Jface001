@@ -1,7 +1,7 @@
-### 👋 Hi there, I'm Jface. (or 惊羽)
+### 👋 Hi there, I'm Jface. ( or 惊羽 )
 - ⌨️  I’m Data Engineer 
 - 🌱 I’m currently learning Python,docker
-- 🤔 
+- 🤔 Try to Contribute to Open Source
 - 💬 Ask me about: SQL,spark,hadoop,hive,presto,shell
 - 💡 My blog: [惊羽的博客](jingyuu.top)
 - 🪙 wallet: 0xF8c8Ed8859d4Bb6031e28Cb14F305FEBdC053B44

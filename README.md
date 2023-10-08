@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python,docker
 - 🤔 Try to ontribute to Open Source
 - 💬 Ask me about: SQL,spark,hadoop,hive,presto,shell
-- 💡 My blog: [惊羽的博客](wwww.jingyuu.top)
+- 💡 My blog: [惊羽的博客](https://wwww.jingyuu.top)
 - 🪙 BTC Address: ``0xF8c8Ed8859d4Bb6031e28Cb14F305FEBdC053B44``
 - 📫 How to reach me: jface2038@gmail.com
 
